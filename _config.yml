@@ -1,11 +1,9 @@
-title: <center>Seth Goldfarb<br>✏️<br>Content Marketing</center> # your name (or website title) here
+title: Seth Goldfarb ✏️<br>Content Marketing # your name (or website title) here
 logo: /images/image (1).png?raw=true # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Making helpful startups more accessible
   <br>
-  <center><a href="https://www.linkedin.com/in/asethgoldfarb/">LinkedIn</a></center>
-  <br>
-  <center><a href="https://twitter.com/GoldenChaosGod">Twitter</a></center>
+  <a href="https://www.linkedin.com/in/asethgoldfarb/">LinkedIn</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-38411253-7 # your Google Analytics tracking ID here
