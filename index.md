@@ -44,8 +44,3 @@ __[PNW Blockchain](https://www.pnwblockchain.com/)__
 PNW Blockchain is an event calendar displaying blockchain-related events in the Seattle area. If you're interested in connecting with the Pacific Northwest Blockchain community, Seth is happy to connect you with the right organizer for your event. [Twitter](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/pnwb.png?raw=true"/>
-
----
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
