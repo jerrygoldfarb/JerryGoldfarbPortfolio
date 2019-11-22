@@ -1,4 +1,4 @@
-## Portfolio
+<center><title>Portfolio</center><title>
 
 ---
 
@@ -27,8 +27,7 @@
 
 ---
 
-
-
+<a href="https://twitter.com/GoldenChaosGod">Twitter</a><center><a href="https://gmail.com">goldfarbas@gmail.com</a></center><p>a href="https://ens.domains/" align="right"><sethgoldfarb.thisisme.eth</p>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
