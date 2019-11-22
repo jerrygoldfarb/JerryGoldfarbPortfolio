@@ -1,33 +1,43 @@
-<center><title>Portfolio</center><title>
+## Experience, Rates, and Contact
 
 ---
 
-### Category Name 1 
+### Experience 
 
-[Project 1 Title](/sample_page)
+[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DeFi School](https://defi.school/)
+<img src="images/defisc.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[PNW Blockchain](https://www.pnwblockchain.com/)
+<img src="images/pnwb.png?raw=true"/>
 
 ---
 
-<a href="https://twitter.com/GoldenChaosGod">Twitter</a><center><a href="https://gmail.com">goldfarbas@gmail.com</a></center><p>a href="https://ens.domains/" align="right"><sethgoldfarb.thisisme.eth</p>
+### Rates
+
+- Free 30-minute Consultation
+- Content Strategy $250
+- Content Management $2000/month with additional services available at $50/hour
+<br>
+For more information, please see my [rate sheet](https://docs.google.com/document/d/15C32joZK0PC7fK077-YgaN1i3cKYmzMHrDfWKCnx0mQ/edit)
+
+---
+
+### Contact
+[goldfarbas@gmail.com](https://gmail.com)
+<br>
+[LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
+<br>
+[Twitter](https://twitter.com/GoldenChaosGod)
+<br>
+[Telegram](https://t.me/sethgoldfarb)
+<br>
+[sethgoldfarb.thisisme.eth](https://ens.domains/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
