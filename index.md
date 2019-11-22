@@ -27,16 +27,18 @@ For more information, please see my [rate sheet](https://docs.google.com/documen
 
 ### Experience 
 
-[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
+__[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)__
 <br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
-[DeFi School](https://defi.school/)
+__[DeFi School](https://defi.school/)__
+<br>
 <img src="images/defisc.png?raw=true"/>
 
 ---
-[PNW Blockchain](https://www.pnwblockchain.com/)
+__[PNW Blockchain](https://www.pnwblockchain.com/)__
+<br>
 <img src="images/pnwb.png?raw=true"/>
 
 ---
