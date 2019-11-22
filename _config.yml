@@ -2,7 +2,7 @@ title: Seth Goldfarb ✏️<br>Content Marketing # your name (or website title) 
 logo: /images/image (1).png?raw=true # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Making helpful startups more accessible
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/asethgoldfarb/">LinkedIn</a>
   
 theme: jekyll-theme-minimal
