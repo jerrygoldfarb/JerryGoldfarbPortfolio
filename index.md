@@ -27,15 +27,21 @@ For more information, please see my [rate sheet](https://docs.google.com/documen
 
 __[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)__
 <br><br>
+In 2019, Seth has published over 35,000 words on the application of blockchain and distributed ledger technologies. His work producing content for Evernym helped advance the business case for self-sovereign identity and his writing has been featured in publications including CryptoSlate, Hacker Noon, Decrypt, and CoinReview.
+<br><br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
 __[DeFi School](https://defi.school/)__
 <br><br>
+DeFi School is a podcast, newsletter, and wiki dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for support from the creators and maintainers.
+<br><br>
 <img src="images/defisc.png?raw=true"/>
 
 ---
 __[PNW Blockchain](https://www.pnwblockchain.com/)__
+<br><br>
+PNW Blockchain is an event calendar displaying blockchain-related events in the Seattle area. If you're interested in connecting with the Pacific Northwest Blockchain community, Seth is happy to connect you with the right organizer for your event. [Twitter](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/pnwb.png?raw=true"/>
 
