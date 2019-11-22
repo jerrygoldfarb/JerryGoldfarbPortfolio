@@ -6,7 +6,7 @@
 
 [Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/portfolio.png?raw=true"/>
 
 ---
 [DeFi School](https://defi.school/)
@@ -23,7 +23,7 @@
 - Free 30-minute Consultation
 - Content Strategy $250
 - Content Management $2000/month with additional services available at $50/hour
-<br>
+<br><br>
 For more information, please see my [rate sheet](https://docs.google.com/document/d/15C32joZK0PC7fK077-YgaN1i3cKYmzMHrDfWKCnx0mQ/edit)
 
 ---
