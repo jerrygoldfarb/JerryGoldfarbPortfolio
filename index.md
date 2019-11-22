@@ -7,8 +7,6 @@
 <br>
 [LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
 <br>
-[sethgoldfarb.thisisme.eth](https://ens.domains/)
-<br>
 [Telegram](https://t.me/sethgoldfarb)
 <br>
 [Twitter](https://twitter.com/GoldenChaosGod)
@@ -28,17 +26,17 @@ For more information, please see my [rate sheet](https://docs.google.com/documen
 ### Experience 
 
 __[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)__
-<br>
+<br><br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
 __[DeFi School](https://defi.school/)__
-<br>
+<br><br>
 <img src="images/defisc.png?raw=true"/>
 
 ---
 __[PNW Blockchain](https://www.pnwblockchain.com/)__
-<br>
+<br><br>
 <img src="images/pnwb.png?raw=true"/>
 
 ---
