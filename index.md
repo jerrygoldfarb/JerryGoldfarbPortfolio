@@ -11,8 +11,6 @@
 - Social Media Management
 - Copywriting
 
-<br><br>
-
 ---
 
 ### Experience 
