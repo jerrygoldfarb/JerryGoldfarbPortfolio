@@ -15,9 +15,9 @@
 
 ### Skills
 
-Storytelling
-Content Marketing
-Copywriting
+Storytelling<br>
+Content Marketing<br>
+Copywriting<br>
 Social Media Management
 
 ---
