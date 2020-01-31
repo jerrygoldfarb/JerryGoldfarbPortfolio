@@ -4,12 +4,7 @@
 
 ### Skills
 
-- Storytelling
-- Writing
-- Editing
-- Content Marketing
-- Social Media Management
-- Copywriting
+<img src="images/storytelling.png?raw=true"/>
 
 ---
 
@@ -17,14 +12,14 @@
 
 __[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)__
 <br>
-From blog articles and social media to journalism and web copy, Seth specializes in making emerging technologies more accessible. In addition to publishing over 40,000 words on blockchain and distributed ledger technologies in 2019, his work with Evernym advanced the business case for self-sovereign identity and his writing has been featured in CryptoSlate, Hacker Noon, Decrypt, and CoinReview.
+Seth makes emerging technologies more accessible through copywriting and content marketing. In addition to publishing over 40,000 words on blockchain and distributed ledger technologies in 2019, his work with Evernym advanced the business case for self-sovereign identity and his writing has been featured in CryptoSlate, Hacker Noon, Decrypt, and CoinReview.
 <br><br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
 __[DeFi School](https://defi.school/)__
 <br>
-DeFi School is a podcast, newsletter, and wiki dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for support from the creators and maintainers.
+DeFi School is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for support from the creators and maintainers.
 <br><br>
 <img src="images/defisc.png?raw=true"/>
 
