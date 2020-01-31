@@ -1,13 +1,24 @@
-## Skills, Experience, and Contact
+## Contact, Skills, and Experience
+
+---
+
+### Contact
+[Gmail](mailto:goldfarbas@gmail.com)
+<br>
+[LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
+<br>
+[Telegram](https://t.me/sethgoldfarb)
+<br>
+[Twitter](https://twitter.com/GoldenChaosGod)
 
 ---
 
 ### Skills
 
-* Storytelling
-* Content Marketing
-* Copywriting
-* Social Media Management
+Storytelling
+Content Marketing
+Copywriting
+Social Media Management
 
 ---
 
@@ -32,16 +43,5 @@ __[PNW Blockchain](https://www.pnwblockchain.com/)__
 PNW Blockchain is an event calendar displaying blockchain-related events in the Seattle area. If you're interested in getting involved in the Pacific Northwest Blockchain community, Seth is happy to get you connected. [Twitter](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/pnwb.png?raw=true"/>
-
----
-
-### Contact
-[Gmail](mailto:goldfarbas@gmail.com)
-<br>
-[LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
-<br>
-[Telegram](https://t.me/sethgoldfarb)
-<br>
-[Twitter](https://twitter.com/GoldenChaosGod)
 
 ---
