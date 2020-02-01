@@ -33,9 +33,7 @@ Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-
   * [Plutus DeFi](https://twitter.com/plutusdefi)
   * [DeFi School](https://twitter.com/defi_school)
   * [PNW Blockchain](https://twitter.com/pnwblockchain)
-<br><br>
-<img src="images/csauthpage.png?raw=true"/>
-
+  
 ---
 __DeFi School__
 <br>
