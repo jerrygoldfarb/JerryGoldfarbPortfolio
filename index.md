@@ -37,16 +37,16 @@ Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-
 <img src="images/portfolio.png?raw=true"/>
 
 ---
-__[DeFi School](https://defi.school/)__
+__DeFi School__
 <br>
-DeFi School is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for traditional gatekeepers.
+[DeFi School](https://defi.school/) is dedicated to educating people on the emerging field of decentralized finance (DeFi). DeFi is a movement to develop transparent, open-source financial software that remains available to users without regard for traditional gatekeepers.
 <br><br>
 <img src="images/defisc.png?raw=true"/>
 
 ---
-__[PNW Blockchain](https://www.pnwblockchain.com/)__
+__PNW Blockchain__
 <br>
-PNW Blockchain promotes the Seattle blockchain community. Looking to get involved in the Pacific Northwest Blockchain community? Seth is happy to get you connected! [Twitter](https://twitter.com/pnwblockchain)
+[PNW Blockchain](https://www.pnwblockchain.com/) promotes the Seattle blockchain community. Looking to get involved in the Pacific Northwest Blockchain community? Seth is happy to get you connected! [Twitter](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/pnwb.png?raw=true"/>
 
@@ -56,7 +56,7 @@ PNW Blockchain promotes the Seattle blockchain community. Looking to get involve
 
 __3rd Place in Interoperability Challenge at 2019 WyoHackathon__
 <br>
-Seth's team took 3rd place in the Interoperability Challenge at the 2019 WyoHackathon with MyWallets, an application for digital wallet aggregation. [Repo](https://github.com/bgok/my-wallets) [Slides](https://docs.google.com/presentation/d/137vz03s-33TVp9EP7tn_SyskN7OXJoK8mpGn_KqlqEU/edit?usp=sharing)
+Seth's team took 3rd place in the Interoperability Challenge at the 2019 WyoHackathon with MyWallets, an application for digital wallet aggregation. [Repo](https://github.com/bgok/my-wallets) - [Slides](https://docs.google.com/presentation/d/137vz03s-33TVp9EP7tn_SyskN7OXJoK8mpGn_KqlqEU/edit?usp=sharing)
 <br><br>
 <img src="images/iuytrds.png?raw=true"/>
 
