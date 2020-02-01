@@ -26,21 +26,17 @@
 __Writing__
 <br>
 Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0) make emerging technologies more accessible.
-<br><br>
 * Blogs
   * [bZx](https://bzx.network/blog/)
   * [Plutus DeFi](https://medium.com/plutusdefi)
   * [Evernym](http://evernym.com/blog)
-  <br><br>
 * Journalism
   * [CryptoSlate](https://cryptoslate.com/author/seth-goldfarb/)
   * [Decrypt](https://decrypt.co/author/sethgoldfarb)
-<br><br>
 * Social Media
   * [Plutus DeFi](https://twitter.com/plutusdefi)
   * [DeFi School](https://twitter.com/defi_school)
   * [PNW Blockchain](https://twitter.com/pnwblockchain)
-<br><br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
