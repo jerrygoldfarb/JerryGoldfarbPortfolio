@@ -6,13 +6,9 @@
 ---
 
 ## Contact
-[Gmail](mailto:goldfarbas@gmail.com)
+[Gmail](mailto:goldfarbas@gmail.com) - [LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
 <br>
-[LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
-<br>
-[Telegram](https://t.me/sethgoldfarb)
-<br>
-[Twitter](https://twitter.com/GoldenChaosGod)
+[Twitter](https://twitter.com/GoldenChaosGod) - [Telegram](https://t.me/sethgoldfarb)
 
 ---
 
@@ -37,6 +33,7 @@ Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-
   * [Plutus DeFi](https://twitter.com/plutusdefi)
   * [DeFi School](https://twitter.com/defi_school)
   * [PNW Blockchain](https://twitter.com/pnwblockchain)
+<br>
 <img src="images/portfolio.png?raw=true"/>
 
 ---
