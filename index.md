@@ -57,6 +57,7 @@ PNW Blockchain promotes the Seattle blockchain community. Looking to get involve
 __3rd Place in Interoperability Challenge at 2019 WyoHackathon__
 <br>
 Seth's team took 3rd place in the Interoperability Challenge at the 2019 WyoHackathon with MyWallets, an application for digital wallet aggregation. [Repo](https://github.com/bgok/my-wallets) [Slides](https://docs.google.com/presentation/d/137vz03s-33TVp9EP7tn_SyskN7OXJoK8mpGn_KqlqEU/edit?usp=sharing)
+<br><br>
 <img src="images/iuytrds.png?raw=true"/>
 
 ---
