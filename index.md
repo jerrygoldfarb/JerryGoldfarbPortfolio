@@ -1,8 +1,11 @@
-## Contact, Skills, and Experience
+## Experience
+[Resume](https://docs.google.com/document/d/1sNiGLyQzHfT1L1B6tK6n0QtXu6XuuLMMXQ3C-ON6q10/edit?usp=sharing)
+<br>
+[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)
 
 ---
 
-### Contact
+## Contact
 [Gmail](mailto:goldfarbas@gmail.com)
 <br>
 [LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
@@ -13,17 +16,30 @@
 
 ---
 
-### Skills
-
+## Skills
 <img src="images/Storytelling (2).png?raw=true"/>
 
 ---
 
-### Experience 
+## Portfolio 
 
-__[Publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0)__
+__Writing__
 <br>
-Seth makes emerging technologies more accessible through copywriting and content marketing. In addition to publishing over 40,000 words on blockchain and distributed ledger technologies in 2019, his work with Evernym advanced the business case for self-sovereign identity and his writing has been featured in CryptoSlate, Hacker Noon, Decrypt, and CoinReview.
+Seth's [publications](https://docs.google.com/spreadsheets/d/13bRyko9UmfNpYWu71-CijDEloMyfw2jTbXsmLbcHHW0/edit#gid=0) make emerging technologies more accessible.
+<br><br>
+* Blogs
+  * [bZx](https://bzx.network/blog/)
+  * [Plutus DeFi](https://medium.com/plutusdefi)
+  * [Evernym](http://evernym.com/blog)
+  <br><br>
+* Journalism
+  * [CryptoSlate](https://cryptoslate.com/author/seth-goldfarb/)
+  * [Decrypt](https://decrypt.co/author/sethgoldfarb)
+<br><br>
+* Social Media
+  * [Plutus DeFi](https://twitter.com/plutusdefi)
+  * [DeFi School](https://twitter.com/defi_school)
+  * [PNW Blockchain](https://twitter.com/pnwblockchain)
 <br><br>
 <img src="images/portfolio.png?raw=true"/>
 
