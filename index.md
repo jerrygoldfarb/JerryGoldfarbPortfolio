@@ -1,17 +1,19 @@
 ## Delectable Edibles 
 
-__Cannabis Catering__
-<br>
-From baked goods and candies to savory meals and snack mixes, treat your guests to Colorado's most delectable edibles with Jerry's infused sweets and hors d'oeuvres.
-<br><br>
-<img src="images/baklava.png?raw=true"/>
 
 ---
-__Infused Feasts__
+__Honest Product__
 <br>
-Whether you're looking to treat someone special to a delightful dinner or provide a highly-hospitable meal to a group of esteemed guests, Jerry can accommodate all of your culinary needs.
+Whether you're looking for the highest quality THC and terpenes, or the most organic and natural experience, Jerry is able to make things work. Different types of marjiuana, and products made from it, are able to be utilized in different ways for a perfect infusion, everytime. For this reason, I have my preferences in product, but there is always opportunity to edit and redirect recipes to customer specification, when necessary. There is never a question that your experience is the first priority and whether its the dosage, the locality, the organic aspect, or pure flavor profile; everything is possible. 
 <br><br>
 <img src="images/crystals.png?raw=true"/>
+
+---
+__Cannabis Catering__
+<br>
+From baked goods and candies to savory meals and snack mixes, treat your guests to Colorado's most delectable edibles with Jerry's infused sweets and hors d'oeuvres. Celebratory events, private occasions, business dinners and anything in between, Jerry is prepared to make your special day more special, with marijuana food infusion. For first timers to experienced veterans, Jerry is able to cater to everyone's needs; dietary, tolerance level, allergies, food sources. 
+<br><br>
+<img src="images/baklava.png?raw=true"/>
 
 ---
 __Personal Consultation__
