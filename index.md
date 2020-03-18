@@ -1,7 +1,7 @@
 ## Delectable Edibles 
 
 <br>
-[**Honest Product**](../jerrygoldfarbportfolio/HonestProduct.md)
+[ __Honest Product__ ](../jerrygoldfarbportfolio/HonestProduct)
 
 <br><br>
 <img src="images/crystals.png?raw=true"/>
