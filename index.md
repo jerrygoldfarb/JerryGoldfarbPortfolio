@@ -1,8 +1,9 @@
 ## Delectable Edibles 
 
-
----
+<br>
 [__Honest Product__](docs/HonestProduct.md)
+
+<br><br>
 <img src="images/crystals.png?raw=true"/>
 
 ---
