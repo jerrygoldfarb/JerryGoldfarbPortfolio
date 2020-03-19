@@ -2,7 +2,7 @@
 
 <br>
  
- __[Honest Product]__ (../jerrygoldfarbportfolio/HonestProduct)
+[__Honest Product__](../jerrygoldfarbportfolio/HonestProduct.md)
 
 <br><br>
 <img src="images/crystals.png?raw=true"/>
