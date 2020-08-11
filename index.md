@@ -22,11 +22,7 @@ Finding yourself with a phenomenal product and a successful venture, in a growin
 <img src="images/BitesizePizza.jpg?raw=true"/>
 
 ---
-<br>
 
-[__Pricing List__](../jerrygoldfarbportfolio/PricingList.md)
-
-<br><br>
 
 
 ## Contact
