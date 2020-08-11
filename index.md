@@ -30,8 +30,8 @@ Finding yourself with a phenomenal product and a successful venture, in a growin
 
 
 ## Contact
-[Gmail](mailto:jerryagoldfarb@gmail.com)
+>### [Gmail](mailto:jerryagoldfarb@gmail.com)
 ---
-[Instagram](https://www.instagram.com/jearbear_co/)
+>### [Instagram](https://www.instagram.com/jearbear_co/)
 ---
-[Calendly](calendly.com/jerrygthechef/)
+>### [Calendly](calendly.com/jerrygthechef/)
